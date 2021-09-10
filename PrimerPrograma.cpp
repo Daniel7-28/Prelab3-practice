@@ -11,7 +11,7 @@ int main(){
         seconds,
         minutes;
     
-    seconds = 543;
+    seconds = 987;
     minutes = (seconds / 60);
     totalSeconds = (seconds % 60);
 
